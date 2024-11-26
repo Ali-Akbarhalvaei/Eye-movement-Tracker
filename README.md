@@ -21,7 +21,7 @@ The network structure incorporates ResNet blocks within Inception modules to max
 * Non-trainable parameters: 320 (1.25 KB)
 
 The complete architecture can be found in the `InceptionResNet.py` file. In the picture below, you can see one block of InceptionResNet network architecture.
-![Alt text](./assets/block.jpg)
+![Alt text](./assets/model.jpg)
 
 ## Demo
 Below is a demonstration of the eye movement tracking. The model effectively captures and displays eye movement in real-time:
