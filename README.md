@@ -31,20 +31,5 @@ Below is a demonstration of the eye movement tracking. The model effectively cap
 ## Conclusion
 The project demonstrates a successful implementation of a lightweight CNN for eye movement detection on a Raspberry Pi. By merging Inception and ResNet components, we managed to optimize the network for CPU performance while maintaining functionality. Future work could involve further refinement of the network architecture or testing on other resource-constrained devices.
 
-## Installation
-[Add installation instructions here]
-
-## Usage
-[Add usage instructions here]
-
-## Requirements
-[Add requirements here]
-
-## License
-[Add license information here]
-
-## Contributing
-[Add contribution guidelines here]
-
-## Contact
-[Add contact information here]
+## Acknowledgment
+This project is an upated version of my project that was done in 2021 with the title of "The new approach for eye-movement detection using Deep Learning and Finite State Machine". This updated version does not detect the movement and also track the movement with the better coding architecture.
