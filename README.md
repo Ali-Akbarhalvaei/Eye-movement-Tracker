@@ -26,7 +26,7 @@ The complete architecture can be found in the `InceptionResNet.py` file. In the 
 ## Demo
 Below is a demonstration of the eye movement tracking. The model effectively captures and displays eye movement in real-time:
 
-![Demo](./assets/demo.gif)
+![Demo](./assets/Demo.gif)
 
 ## Conclusion
 The project demonstrates a successful implementation of a lightweight CNN for eye movement detection on a Raspberry Pi. By merging Inception and ResNet components, we managed to optimize the network for CPU performance while maintaining functionality. Future work could involve further refinement of the network architecture or testing on other resource-constrained devices.
